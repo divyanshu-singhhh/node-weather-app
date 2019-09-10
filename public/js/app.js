@@ -1,8 +1,4 @@
-console.log('Client Side Javascript File Man');
-
-
-
-
+//console.log('Client Side Javascript File Man');
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const messageOne  = document.querySelector('#message-1');
