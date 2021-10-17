@@ -41,7 +41,7 @@ app.get('/about', (req, res) => {
 
 app.get('/help', (req, res) => {
     res.render('help',{
-        message: 'Type in your location in and click on search button to get the weather of your location',
+        message: 'Type in your location and click on search button to get the weather of your location',
         title: 'Help',
         name: 'Divyanshu Singh'
     })
